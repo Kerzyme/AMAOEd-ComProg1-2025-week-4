@@ -1,2 +1,2 @@
-# AMAOEd-ComProg1-2025-week-4
-Kerzyme's very first C++ application
+# AMAOEd-ComProg1-week-4
+My very first C++ application
